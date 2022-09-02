@@ -4,6 +4,10 @@ Scripts to build ethereum local private network.
 
 By default, it's a 3 node (all of them are miner) network connect with each other.
 
+# Version
+
+Geth v1.10.17 tested
+
 ## Get started
 
 Specify your geth client path in `_param.sh`, then:
